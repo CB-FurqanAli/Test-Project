@@ -2,7 +2,7 @@
 
     <div class="flex">
         <!-- Sidebar -->
-      <x-sidebar href="#"></x-sidebar>
+      <x-sidebar />
         <!-- Main Content -->
         <div class="md:flex-1 ">
             <div class=" max-w-7xl mx-auto">
