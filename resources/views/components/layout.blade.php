@@ -6,7 +6,8 @@
     <title>TextRightNow - Payments Dashboard (dropdown)</title>
     @vite('resources/css/app.css')
 </head>
-<body class="bg-[#ffffff] asdasdasd">
+<body class="bg-[#ffffff] asdasdasdsadsdsasasad">
 {{ $slot }}
 </body>
 </html>
+
