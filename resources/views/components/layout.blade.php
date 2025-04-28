@@ -8,6 +8,8 @@
 </head>
 <body class="bg-[#ffffff] fafafafa">
 {{ $slot }}
+
+<button>This is dev button</button>
 </body>
 </html>
 
