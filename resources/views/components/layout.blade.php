@@ -9,6 +9,7 @@
 <body class="bg-[#ffffff] fafafafa">
 <h1>This is main h1 tag</h1>
 {{ $slot }}
+<button>This is button dev2</button>
 </body>
 </html>
 
