@@ -7,7 +7,7 @@
     @vite('resources/css/app.css')
 </head>
 <body class="bg-[#ffffff] fafafafa">
-<h1>This is main h1 tag</h1>
+<h1>This is main h2 tag</h1>
 {{ $slot }}
 </body>
 </html>
