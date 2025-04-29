@@ -10,7 +10,7 @@
 <h1>This is main h2 tag</h1>
 {{ $slot }}
 <button>This is button dev2</button>
-<h2>fsfsf</h2>
+<h2>asdasdasd</h2>
 </body>
 </html>
 
